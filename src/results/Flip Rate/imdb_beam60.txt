@@ -1,0 +1,70 @@
+Step 1:
+num_total: 	430
+num_flipped: 	413
+flip_rate: 	0.96
+minimality: 	0.266
+duration: 	67.732
+--------------------
+Step 2:
+num_total: 	413
+num_flipped: 	411
+flip_rate: 	0.995
+minimality: 	0.055
+duration: 	50.425
+--------------------
+Step 3:
+num_total: 	411
+num_flipped: 	405
+flip_rate: 	0.985
+minimality: 	0.106
+duration: 	51.28
+--------------------
+Step 4:
+num_total: 	405
+num_flipped: 	405
+flip_rate: 	1.0
+minimality: 	0.054
+duration: 	46.437
+--------------------
+Step 5:
+num_total: 	405
+num_flipped: 	403
+flip_rate: 	0.995
+minimality: 	0.073
+duration: 	46.257
+--------------------
+Step 6:
+num_total: 	403
+num_flipped: 	403
+flip_rate: 	1.0
+minimality: 	0.051
+duration: 	44.677
+--------------------
+Step 7:
+num_total: 	403
+num_flipped: 	403
+flip_rate: 	1.0
+minimality: 	0.064
+duration: 	43.997
+--------------------
+Step 8:
+num_total: 	403
+num_flipped: 	403
+flip_rate: 	1.0
+minimality: 	0.049
+duration: 	43.569
+--------------------
+Step 9:
+num_total: 	403
+num_flipped: 	402
+flip_rate: 	0.998
+minimality: 	0.051
+duration: 	43.071
+--------------------
+Step 10:
+num_total: 	402
+num_flipped: 	401
+flip_rate: 	0.998
+minimality: 	0.05
+duration: 	42.852
+--------------------

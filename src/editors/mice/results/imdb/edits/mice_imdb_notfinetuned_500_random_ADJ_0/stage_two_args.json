@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "task": "imdb",
+        "results_dir": "results",
+        "editor_path": "results/imdb/editors/mice/imdb_editor.pth",
+        "stage2_exp": "mice_imdb_notfinetuned_500_random_ADJ_0",
+        "targeted_pos_tag": "ADJ",
+        "inputs_path": "/users/pa21/ptzouv/tkaravangelis/data/imdb_431"
+    },
+    "mask": {
+        "mask_type": "grad",
+        "grad_type": "normal_l1"
+    },
+    "model": {
+        "model_max_length": 700
+    },
+    "generation": {
+        "generate_type": "sample",
+        "top_k": 30,
+        "top_p": 0.95,
+        "length_penalty": 1.0,
+        "generation_num_beams": 15,
+        "num_generations": 15,
+        "no_repeat_ngram_size": 2
+    },
+    "search": {
+        "max_mask_frac": 0.55,
+        "max_edit_rounds": 3,
+        "max_search_levels": 4,
+        "beam_width": 3,
+        "search_method": "binary"
+    },
+    "misc": {
+        "grad_pred": "original"
+    }
+}
