@@ -1,0 +1,8 @@
+# Ignore Python bytecode files
+**/*.pyc
+
+# Ignore Python __pycache__ folders
+**/__pycache__/
+
+# Ignore DS_Store folders
+**/.DS_Store/
