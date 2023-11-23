@@ -6,3 +6,5 @@
 
 # Ignore DS_Store folders
 **/.DS_Store/
+
+/Counterfactuals**
